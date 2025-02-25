@@ -1,4 +1,4 @@
-# Introducción---HTML-Visual-Studio-y-JavaScript
+# Introducción: HTML, Visual Studio Code y JavaScript.
 
 ## Visual Studio Code.
 

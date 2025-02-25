@@ -101,3 +101,9 @@ Por defecto, los scripts en `JavaScript` se ejecutan en **modo clásico**, lo qu
 Vinculación
 
 <video src="Videos/Inicio.mp4" controls="">
+
+<video width="640" height="360" controls>
+  <source src="Videos/Inicio.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
